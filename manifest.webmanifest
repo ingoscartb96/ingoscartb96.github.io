@@ -1,7 +1,7 @@
 {
-  "name": "Control de Obra Tejeda",
-  "short_name": "Control Obra",
-  "description": "Control de obra de Constructora Tejeda",
+  "name": "Proyectos Tejeda",
+  "short_name": "Proyectos",
+  "description": "Proyectos de Constructora Tejeda",
   "lang": "es-MX",
   "id": "/",
   "start_url": "/",
